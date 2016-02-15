@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5461869
+  lightness: 0.5
+  brandStrength: 0.424812
+  brandColors:
+    - '#CEDED1'
+    - '#30CFFF'
+    - '#0D161E'
+    - '#036EA2'
+    - '#64706D'
+  rhythmicContrast: 0.9382384
+typography_spectrum: 0.1004296
+name: Roll On Painting
