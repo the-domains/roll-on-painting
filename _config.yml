@@ -4,16 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.06928033
 color:
   saturation: 0.7320086
   brandStrength: 0.2003222
-  lightness: 0.2336197
+  lightness: 1
   brandColors:
     - '#CEDED1'
     - '#30CFFF'
@@ -21,6 +22,5 @@ color:
     - '#036EA2'
     - '#64706D'
   rhythmicContrast: 0.9382384
-typography_spectrum: 0.06928033
 layout_spectrum: 0.8641245
 name: Roll On Painting
