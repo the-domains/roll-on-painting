@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.06928033
 color:
-  saturation: 1
+  saturation: 0.5214823
   brandStrength: 0.2003222
-  lightness: 1
+  lightness: 0.3066595
   brandColors:
-    - '#CEDED1'
-    - '#30CFFF'
-    - '#0D161E'
-    - '#036EA2'
-    - '#64706D'
-  rhythmicContrast: 1
-layout_spectrum: 0.5128894
+    - '#C7AA80'
+    - '#390C0E'
+    - '#FBFFFF'
+    - '#896C4B'
+    - '#5C91FA'
+  rhythmicContrast: 0.4033297
+typography_spectrum: 0.06928033
+layout_spectrum: 0.7008593
 name: Roll On Painting
